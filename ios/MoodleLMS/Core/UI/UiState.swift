@@ -1,0 +1,8 @@
+import Foundation
+
+enum UiState<T> {
+    case idle
+    case loading
+    case success(T)
+    case error(String)
+}
