@@ -8,9 +8,7 @@ Both apps implement three screens — **Courses**, **Course Details**, **Grades*
 
 A short screen recording of the apps running end-to-end (login → courses → course detail with modules → grades).
 
-https://github.com/user-attachments/assets/REPLACE_ME
-
-> If GitHub doesn't render the link above, the file is also checked into the repo at [`./video.mp4`](./video.mp4).
+https://drive.google.com/file/d/1a2v3chpp9odnxkLH1PYmPaGiPGEvcWOL/view?usp=sharing
 
 ## Repo layout
 
